@@ -19,13 +19,6 @@
 ![](https://img.shields.io/github/stars/Jobless-guy/DankRipper) ![](https://img.shields.io/github/forks/Jobless-guy/DankRipper.svg) ![](https://img.shields.io/github/tag/Jobless-guy/DankRipper.svg) ![](https://img.shields.io/github/release/Jobless-guy/DankRipper.svg) ![](https://img.shields.io/github/issues/Jobless-guy/DankRipper.svg) ![]
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 # What is DankRipper?
 DankRipper program is an advanced minding script with function and understanding of the discord bot DankMemer.Its primary purpose is to make its user rich without getting detected farm Dank Memer as efficiently as possible. It also could be used to auto trade between two accounts where it is money or items. It's inbuilt with a Gui interface accessible on the go from the local host connection or, if using a hosting service, the DNS URL.
 
